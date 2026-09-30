@@ -13,6 +13,8 @@ Vehicle skin mods are uploaded to Steam Workshop for each vehicle variant. see #
 - bus_gm_5301
 - bus_gmc_rts
 - bus_ikr_55
+- bus_ikr_66
+- bus_ikr_256
 
 ## Installation Instructions
 
